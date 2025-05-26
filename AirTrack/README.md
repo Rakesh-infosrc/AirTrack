@@ -49,7 +49,7 @@ combined_project/
 
 1. Navigate to the mpc directory:
    ```bash
-   cd mpc
+   cd mcp
    ```
 
 2. Create and activate a virtual environment:
